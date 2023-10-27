@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Gopi Kant",
+      "username": "bret",
+      "email": "jhdssd@gsjh.com",
+      "Phone": "54737884323",
+      "website": "dsjhkjdsh.org"
+    },
+    {
+      "id": 2,
+      "name": "rahul",
+      "username": "dsb",
+      "email": "jhdssd@gsjh.com",
+      "Phone": "54737884323",
+      "website": "dsjhkjdsh.org"
+    },
+    {
+      "id": 3,
+      "name": "hrk",
+      "username": "ldsbjsd",
+      "email": "jhdssd@gsjh.com",
+      "Phone": "54737884323",
+      "website": "dsjhkjdsh.org"
+    },
+    {
+      "id": 4,
+      "name": "nth",
+      "username": "dsbk",
+      "email": "jhdssd@gsjh.com",
+      "Phone": "54737884323",
+      "website": "dsjhkjdsh.org"
+    },
+    {
+      "id": 5,
+      "name": "surj",
+      "username": "lsbdkj",
+      "email": "jhdssd@gsjh.com",
+      "Phone": "54737884323",
+      "website": "dsjhkjdsh.org"
+    },
+    {
+      "id": 6,
+      "name": "prithvi",
+      "username": "bdsbjk",
+      "email": "jhdssd@gsjh.com",
+      "Phone": "54737884323",
+      "website": "dsjhkjdsh.org"
+    },
+    {
+      "id": 7,
+      "name": "vibhay",
+      "username": "kkdbsk",
+      "email": "jhdssd@gsjh.com",
+      "Phone": "54737884323",
+      "website": "dsjhkjdsh.org"
+    },
+    {
+      "id": 8,
+      "name": "dpk",
+      "username": "sajgdhkl",
+      "email": "jhdssd@gsjh.com",
+      "Phone": "54737884323",
+      "website": "dsjhkjdsh.org"
+    },
+    {
+      "id": 9,
+      "name": "ashish",
+      "username": "ndsasa",
+      "email": "jhdssd@gsjh.com",
+      "Phone": "54737884323",
+      "website": "dsjhkjdsh.org"
+    }
+  ]
+}
